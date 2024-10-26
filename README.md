@@ -1,28 +1,33 @@
 # Medical-Chatbot
-Medical Chatbot
 A comprehensive, AI-powered chatbot designed to assist with basic medical queries. This chatbot leverages natural language processing (NLP) techniques to understand and respond to user inquiries, providing a helpful tool for preliminary medical advice and information.
 
-Table of Contents
-Project Overview
-Features
-Installation
-Usage
-File Structure
-Customization
-Contributing
-License
-Project Overview
-The Medical Chatbot is designed to provide quick and accurate responses to users’ medical inquiries. It can assist users with general health advice, symptoms, preventive care, and more. This project demonstrates the use of machine learning models, web deployment, and data integration to create a practical AI solution.
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [File Structure](#file-structure)
+6. [Customization](#customization)
+7. [Contributing](#contributing)
+8. [License](#license)
 
-Features
-Natural Language Processing (NLP): Understands user input and provides appropriate responses.
-Medical Data Integration: Uses predefined medical datasets for accurate responses.
-Web-based Interface: Accessible through a web application, allowing easy interaction.
-Scalable Design: Can be extended with additional medical topics or integrated with other systems.
-Installation
-1. Clone the Repository
-bash
-Copy code
+---
+
+## Project Overview
+The **Medical Chatbot** is designed to provide quick and accurate responses to users’ medical inquiries. It can assist users with general health advice, symptoms, preventive care, and more. This project demonstrates the use of machine learning models, web deployment, and data integration to create a practical AI solution.
+
+## Features
+- **Natural Language Processing (NLP)**: Understands user input and provides appropriate responses.
+- **Medical Data Integration**: Uses predefined medical datasets for accurate responses.
+- **Web-based Interface**: Accessible through a web application, allowing easy interaction.
+- **Scalable Design**: Can be extended with additional medical topics or integrated with other systems.
+
+---
+
+## Installation
+
+### 1. Clone the Repository
+```bash
 git clone https://github.com/your-username/Medical-Chatbot.git
 cd Medical-Chatbot
 2. Set Up Virtual Environment
@@ -39,7 +44,8 @@ Install the necessary libraries using the requirements.txt file.
 bash
 Copy code
 pip install -r requirements.txt
-Usage
+
+## Usage
 Run the Application
 Start the chatbot application by running:
 
@@ -81,3 +87,6 @@ If you wish to train or use a different model, replace the files in the model/ f
 
 Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Ensure that any new features are documented in the README.
+
+
+
